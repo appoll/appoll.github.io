@@ -11,6 +11,8 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
+If a quote would appear below I would be happy
+
 > Files created on external storage, such as SD Cards, are globally readable and writable. Because external storage can be removed by the user and also modified by any application, you should not store sensitive information using external storage.
 
 ### my history
