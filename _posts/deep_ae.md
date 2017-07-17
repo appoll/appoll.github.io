@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Autoencoders in deep architectures
 subtitle: How merely reproducing information can be enough
 ---
